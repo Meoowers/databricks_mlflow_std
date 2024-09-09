@@ -1,4 +1,4 @@
-# Models for test Databricks MLFLOW
+# Models for Databricks and MLFLOW testing
 
 
 Repo for sync ML/MLOPS Databricks stuff (for testing), using mlflow and pyspark.
